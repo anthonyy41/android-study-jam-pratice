@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">android_study_jam</string>
+    <string name="roll">Roll</string>
+    <string name="randomNumber">randomNumber</string>
 </resources>
